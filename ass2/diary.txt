@@ -1,0 +1,15 @@
+# Diary of progress to speed.pl 
+|Date|Start|Stop|Activity|Comments|
+|-|-|-|-|-|
+|21/04/21|2100|2300|Reading + Coding |Understood spec and started to implement basic loops|
+|21/04/21|2300|2345| Coding |Working -p, -d, -q|
+|21/04/21|2345|0045| Coding |Subset 0 working and passing autotest|
+|22/04/21|0045|0130| Testing |Created test shell scripts for subset 0 |
+|22/04/21|1600|1800| Coding |Implemented the $ address in subset 1 and added colour to tests|
+|23/04/21|0000|0200| Coding |Implemented the ranges and other delimiters|
+|25/04/21|0000|0200| Coding |Planned structure for multiple commands and implemented |
+|25/04/21|1000|1100| Added -f flag |
+|25/04/21|1100|1115| Handled white space and comments |
+|25/04/21|1200|1900| Restructured code to deal with multiple commands properly |
+|25/04/21|2200|2300| Fixed infinite input issue |
+|25/04/21|2300|2310| Debugged subset 0 autotests|
